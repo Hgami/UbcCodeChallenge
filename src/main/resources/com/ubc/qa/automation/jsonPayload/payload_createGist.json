@@ -1,0 +1,8 @@
+{
+    "public": true,
+    "files": {
+        "UBC": {
+            "content": "content_value"
+        }
+    }
+}
