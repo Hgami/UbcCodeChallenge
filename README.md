@@ -37,6 +37,10 @@ Steps for importing file
 6. To run --> Click on Runner file and click Run button/ Test should start running. 
 
 
+
+[GitHubGistTestRunner.zip](https://github.com/Hgami/UbcCodeChallenge/files/8346550/GitHubGistTestRunner.zip)
+
+
 ---
 
 
