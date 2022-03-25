@@ -111,7 +111,7 @@ public class GitHubGistRest {
 			}
 
 			Response response = restRequest.sendJsonRequestWithBody(gistURL, parser.toString(), setHeaders());
-			assertEquals("The Status Code should be 200", 201, response.statusCode());
+			assertEquals("The Status Code should be 201", 201, response.statusCode());
 
 			JsonPath jsonpath = response.jsonPath();
 			gistId = jsonpath.getString("id");
