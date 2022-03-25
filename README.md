@@ -24,6 +24,8 @@ This project includes 1 `Scenario` ( present inside feature file `.feature`)  an
 
 ##### `3. How do i run this code  ? `
 
+IDE - Eclipse
+
 Import as Maven Build Project. Once imported - do <b> clean project and update maven project </b> to make sure all the dependecies are downloaded properly
 
 To run this code - have to import `GitHubGistTestRunner.launch` file.  
